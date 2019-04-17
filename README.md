@@ -30,7 +30,7 @@ To compile: type "make" --all *.o files and the executable file "run" will be lo
 
 Usage: ./bin/run
 
-> You will see a menu come up, where you can choose which of the 4 questions to run, or exit. For example:
+> You will see a menu come up, where you can choose which of the 2 questions to run, or exit. For example:
 
 ```
 1. P1.c - Optimal Binary Search Tree: Dynamic Programming Technique
